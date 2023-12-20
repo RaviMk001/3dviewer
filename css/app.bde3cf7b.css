@@ -1,0 +1,1 @@
+.drag-zone{border-radius:.7em;background:#eee;padding:2em;color:#4e4e4e;font-weight:800;text-align:center}.drag-zone:hover{background:#515151;color:#fff}.three-overlay{z-index:1;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}.top-left{left:15px}.top-left,.top-right{z-index:100;position:absolute;top:15px}.top-right{right:15px}
